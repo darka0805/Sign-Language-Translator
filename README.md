@@ -1,6 +1,6 @@
 # Sign-Language-Translator
 
-###📜 Overview
+### 📜 Overview
 Over 1.5 billion people — nearly 20% of the global population — live with hearing loss.
 For millions, sign language is the primary mode of communication.
 
@@ -8,12 +8,12 @@ This project aims to enable deaf and mute individuals to communicate more conven
 
 Our approach combines hand landmark detection with sequence-based modeling to classify gestures accurately, even for signs requiring motion.
 
-###🎯 Goals
+### 🎯 Goals
 - Capture all 26 letters of the sign language alphabet.
 - Handle static gestures and motion-based gestures (e.g., J, Z).
 - Deliver a robust gesture recognition pipeline that works in real time.
 
-###📂 Dataset Preparation
+### 📂 Dataset Preparation
 1. Data Collection
   Images collected manually using a webcam(26 letters of the alphabet).
 
